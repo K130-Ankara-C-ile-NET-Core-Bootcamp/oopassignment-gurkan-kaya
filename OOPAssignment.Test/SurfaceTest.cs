@@ -1,4 +1,8 @@
-﻿using System;
+﻿using OOPAssignment.Interfaces;
+using OOPAssignment.Structs;
+using OOPAssignment.Classes;
+using OOPAssignment.Enums;
+using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
